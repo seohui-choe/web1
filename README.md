@@ -22,7 +22,7 @@
 <img src="coding.jpg" width="100%">
 <P style="margin"-top:40px;">rkskekfkakqktdlkjsjlk</p>
   <p>
-    <script id="dsq-count-scr" src="//web1-ldgua41iwz.disqus.com/count.js" async></script>
+    <script id="dsq-count-scr" src="//web1-x14o8pnpji.disqus.com/count.js" async></script>
   </p>
 </body>
 </html>
